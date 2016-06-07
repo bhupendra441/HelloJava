@@ -19,7 +19,7 @@ public class Hello
     System.out.println("Привет, Java!");
     System.out.println("Сегодня: " + new Date());
   }
-};
+}
 
 /*** end of "Hello.java" file ***/
 
