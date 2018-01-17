@@ -16,7 +16,7 @@ public class Hello
    */
   public static void main(String[] args)
   {
-    
+        System.out.println("Привет, Java!");
     System.out.println("Привет, Java!");
     System.out.println("Сегодня: " + new Date());
     System.out.println("Сегодня: " + new Date());
