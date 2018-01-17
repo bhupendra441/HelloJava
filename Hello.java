@@ -15,7 +15,7 @@ public class Hello
    * @throws exceptions Исклчения не обрабатываются
    */
   public static void main(String[] args)
-  {
+  {System.out.println("Привет, Java!");
         System.out.println("Привет, Java!");
     System.out.println("Привет, Java!");
     System.out.println("Сегодня: " + new Date());
